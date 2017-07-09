@@ -2,7 +2,7 @@
 I have decided to write something from time to time.
 
 ## About myself
-I am leaving in Amsterdam, working as software developer.
+I am living in Amsterdam, working as software developer.
 I am married, we have a child.
 We have come here from Russia, but before we have spent two years in 
 Germany, where I also was working as a developer in a small startup.
