@@ -7,3 +7,4 @@ I have chosen DroidEdit to compose posts on the go. While it has GIT client buil
 ## Links
 If you don't know by heart how to inject a link inside a markdown file it can be very tricky to figure out.
 [Previous post](http://constpetrov.github.io/blog)
+[Index](http://constpetrov.github.io/index)

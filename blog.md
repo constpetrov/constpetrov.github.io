@@ -22,3 +22,6 @@ for this side quest. Maybe, JVM-based (Kotlin, for example). Maybe, it will
 be Python.
 
 In the next posts coming I will fix the feature list for the very beginning version of the blogging system, and then I decide technologies to use.
+
+## Links
+[Index](http://constpetrov.github.io/index)
