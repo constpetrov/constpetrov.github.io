@@ -30,7 +30,7 @@ Also using a mouse is uncomfortable with this type of boards, because users hand
 Left-handed users here are in the better position.
 
 ### 80% size. Tenkeyless
-These are keyboards bit smaller than usual - they lack number pad.
+These are keyboards are bit smaller than usual - they lack number pad.
 It gives them nicer more compact look still providing lots of keys such as *Insert*/*Delete*/*Home*/*End*/*PgUp*/*PgDn*.
 Most users have never seen them, but they can prefere such a keyboard over the regular one.
 I am now using one of these: Filco Majestouch 2 TKL.
@@ -61,6 +61,14 @@ Also, lots of them can be obtained in a for of DIY kit, so one can choose a body
 I would like to have regular layout with *Shift* layer for capitalised letters and then *Alt* and *AltGr* layers for specials.
 After that I would like to have a layer for my macros.
 It means I need to build a DIY keyboard.
+
+There are two different options building a keyboard on one's own - to use preproduced board plate (PCB) or to handwire it. Last means that one has to connect all the keys in a matrix oneself but gives a remarkably bigger opportunities to choose form and number of keys used. 
+
+All boards made on PCB on the other hands will be defined by it, but they are much easier to build.
+
+For the first build I would use PCB.
+
+Last but mot least division is traditional staggered layout versus ortholinear keyboard. I last option all the caps are placed in form of a rectangular grid
 
 
 ## Links
