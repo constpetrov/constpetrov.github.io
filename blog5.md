@@ -68,7 +68,7 @@ All boards made on PCB on the other hands will be defined by it, but they are mu
 
 For the first build I would use PCB.
 
-Last but mot least division is traditional staggered layout versus ortolinear keyboard. I last option all the caps are placed in form of a rectangular grid. It allows one's fingers to move in less and do not turn so much.
+Last but mot least division is traditional staggered layout versus ortolinear keyboard. In last option all the caps are placed in a form of rectangular grid. It allows one's fingers to move less and do not turn so much.
 
 Example of ortolinear board is Planck or Preonic keyboards. They can be obtained in a form of DIY kit and assembled with minimal knowledge and skills.
 
