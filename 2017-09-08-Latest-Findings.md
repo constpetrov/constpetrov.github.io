@@ -1,5 +1,6 @@
 ## Latest findings
 _published on 8 of September, 2017_
+
 I have discovered asciidoc format and I think for personal blogging it is enough.
 Also, I am going to purchase domain fot my blog so all the links could be fixed.
 
