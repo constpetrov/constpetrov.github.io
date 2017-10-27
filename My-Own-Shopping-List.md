@@ -1,4 +1,5 @@
 ## My own shopping list
+_published on 27 of October, 2017_
 
 I am going to create my own shopping list application. 
 
@@ -46,3 +47,7 @@ Steps:
 
 Platform and tools - Android, Kotlin.
 All the storage in the sqlite.
+
+## Links
+- [Previous post](http://constpetrov.github.io/First-Time-to-Gym)
+- [Index](http://constpetrov.github.io/index)
