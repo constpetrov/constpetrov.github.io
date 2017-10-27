@@ -28,7 +28,7 @@ After some statistics gained I want appication to sort list according to regular
 - what have I bought in which shop
 - what was the order of swipes
 
-Aside from sorting, I would like to be remainded about things \I have not bought last times in the shop I am going to visit. 
+Aside from sorting, I would like to be remainded about things I have not bought last times in the shop I am going to visit. 
 
 Also it would be nice to get rough estimation of the total cost, given the previous experience. 
 
