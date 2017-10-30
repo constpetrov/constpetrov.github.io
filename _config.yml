@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
-site.title: constpetrov.net
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      site.title: constpetrov.net
