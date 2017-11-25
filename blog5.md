@@ -1,5 +1,6 @@
 # Core tools 1
 _published on 12 of August, 2017_
+
 I want to address some of the core tools and concepts any person who write his or her thoughts thought of.
 
 ## Keyboards

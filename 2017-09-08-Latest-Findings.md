@@ -1,4 +1,6 @@
 ## Latest findings
+_published on 8 of September, 2017_
+
 I have discovered asciidoc format and I think for personal blogging it is enough.
 Also, I am going to purchase domain fot my blog so all the links could be fixed.
 
@@ -16,5 +18,5 @@ yyyy-MM-dd-Heading-of-the-Post
 This way all the urls will be still human-readable.
 
 ## Links
-[Previous post](http://contpetrov.github.io/blog5)
-[Index](http://contpetrov.github.io/index)
+[Previous post](http://constpetrov.github.io/blog5)
+[Index](http://constpetrov.github.io/index)
