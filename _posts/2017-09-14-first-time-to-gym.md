@@ -1,5 +1,8 @@
-## First Time to Gym
-_published on 14 of September, 2017_
+---
+layout: post
+title: First time to gym
+date: 2017-09-14
+---
 
 Today I was in a gym for a first time in my life. And I liked it.
 

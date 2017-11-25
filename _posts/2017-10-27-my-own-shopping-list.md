@@ -1,5 +1,8 @@
-## My own shopping list
-_published on 27 of October, 2017_
+---
+layout: post
+title: My own shopping list
+date: 2017-10-27
+---
 
 I am going to create my own shopping list application. 
 
@@ -32,8 +35,6 @@ Aside from sorting, I would like to be remainded about things I have not bought 
 
 Also it would be nice to get rough estimation of the total cost, given the previous experience. 
 
-It would be great to make it work just on the phone, without any server side. 
-
 Steps:
 
 1. Just the application with the list and swipes. 
@@ -44,10 +45,3 @@ Steps:
 6. Add different shops. 
 7. Assumptions what shop to visit. 
 8. Predictions of the total cost.
-
-Platform and tools - Android, Kotlin.
-All the storage in the sqlite.
-
-## Links
-- [Previous post](http://constpetrov.github.io/First-Time-to-Gym)
-- [Index](http://constpetrov.github.io/index)

@@ -1,7 +1,9 @@
-# Preface
-I have decided to write something from time to time.
+---
+layout: post
+title: About myself 
+date: 2017-08-07
+---
 
-## About myself
 I am living in Amsterdam, working as software developer.
 I am married, we have a child.
 We have come here from Russia, but before that we have spent two years in 
@@ -22,6 +24,3 @@ for this side quest. Maybe, JVM-based (Kotlin, for example). Maybe, it will
 be Python.
 
 In the next posts coming I will fix the feature list for the very beginning version of the blogging system, and then I decide technologies to use.
-
-## Links
-[Index](http://constpetrov.github.io/index)

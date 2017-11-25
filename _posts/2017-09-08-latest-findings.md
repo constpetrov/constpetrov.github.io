@@ -1,5 +1,8 @@
-## Latest findings
-_published on 8 of September, 2017_
+---
+layout: post
+title: Latest findings
+date: 2017-09-08
+---
 
 I have discovered asciidoc format and I think for personal blogging it is enough.
 Also, I am going to purchase domain fot my blog so all the links could be fixed.
@@ -16,7 +19,3 @@ Because I am not going to write more than one post
 per day I will use this format:
 yyyy-MM-dd-Heading-of-the-Post
 This way all the urls will be still human-readable.
-
-## Links
-[Previous post](http://constpetrov.github.io/blog5)
-[Index](http://constpetrov.github.io/index)

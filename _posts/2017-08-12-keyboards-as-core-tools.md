@@ -1,5 +1,8 @@
-# Core tools 1
-_published on 12 of August, 2017_
+---
+layout: post
+title: Keyboards as core tools
+date: 2017-09-08
+---
 
 I want to address some of the core tools and concepts any person who write his or her thoughts thought of.
 
@@ -73,8 +76,3 @@ For the first build I would use PCB.
 Last but mot least division is traditional staggered layout versus ortolinear keyboard. In last option all the caps are placed in a form of rectangular grid. It allows one's fingers to move less and do not turn so much.
 
 Example of ortolinear board is Planck or Preonic keyboards. They can be obtained in a form of DIY kit and assembled with minimal knowledge and skills.
-
-
-## Links
-[Previous post](http://constpetrov.github.io/blog4)
-[Index](http://constpetrov.github.io/index)
