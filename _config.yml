@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+title: constpetrov.net
 defaults:
   -
     scope:
