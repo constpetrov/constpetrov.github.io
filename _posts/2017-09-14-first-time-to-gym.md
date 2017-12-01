@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: First time to gym
 date: 2017-09-14
 ---
@@ -15,7 +15,3 @@ this is what I was missing for very long.
 A bit of time just for myself. A bit of muscle joy.
 
 Will see what is going to happen in a month!
-
-## Links
-- [Previous post](http://constpetrov.github.io/2017-09-08-Latest-Findings)
-- [Index](http://constpetrov.github.io/index)
