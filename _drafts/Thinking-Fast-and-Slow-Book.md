@@ -1,3 +1,7 @@
+---
+title: "Book review - Thinking, fast and slow"
+date:
+---
 ## Thinking, fast and slow
 
 I have heard of this book for a first time on a jPoint conference. This is a Java/JVM conference which tools place every spring in Moscow. It is very technical and hardcore conference, but most of the talks are in Russian (good for me). I usually attend it via Web.
