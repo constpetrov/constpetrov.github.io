@@ -1,6 +1,6 @@
 ---
 title: Plank ortholinear keyboard
-layout: default
+layout: post
 date: 2018-05-18
 ---
 

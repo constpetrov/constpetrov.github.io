@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: About myself 
 date: 2017-08-07
 ---

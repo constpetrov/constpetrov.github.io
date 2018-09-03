@@ -1,4 +1,4 @@
-## Temporaly blog
+## Temporary blog
 
 {% for post in site.posts %}
 

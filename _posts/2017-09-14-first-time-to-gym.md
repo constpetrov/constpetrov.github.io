@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: First time to gym
 date: 2017-09-14
 ---

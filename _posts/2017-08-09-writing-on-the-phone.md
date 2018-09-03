@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Writing on the phone
 date: 2017-08-09
 ---

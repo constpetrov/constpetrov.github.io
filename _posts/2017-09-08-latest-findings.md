@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Latest findings
 date: 2017-09-08
 ---

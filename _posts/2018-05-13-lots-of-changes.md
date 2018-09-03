@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: post 
 title: Lots of changes
 date: 2018-05-13
 ---

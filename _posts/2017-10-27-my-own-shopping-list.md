@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: My own shopping list
 date: 2017-10-27
 ---

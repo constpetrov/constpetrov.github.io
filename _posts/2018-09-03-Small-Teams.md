@@ -1,4 +1,10 @@
-# Small teams
+---
+date: 2018-09-03
+title: Small Teams in Agile Environment
+layout: post
+tags: [agile, scrum, product owner]
+---
+
 Here I am explaining my views on software development using 
 agile methodologies.
 

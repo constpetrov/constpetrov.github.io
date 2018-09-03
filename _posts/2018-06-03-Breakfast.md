@@ -1,7 +1,7 @@
 ---
 title: Breakfast
 date: 2018-06-03
-layout: default
+layout: post
 ---
 
 How do you start your day?

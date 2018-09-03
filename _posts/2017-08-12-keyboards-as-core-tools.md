@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Keyboards as core tools
 date: 2017-09-08
 ---

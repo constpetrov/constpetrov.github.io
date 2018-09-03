@@ -1,7 +1,7 @@
 ---
 date: 2018-07-09
 title: Trying hard to sound good
-layout: default
+layout: post
 ---
 
 ## Insecurity
