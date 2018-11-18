@@ -6,7 +6,7 @@ We struggle expressing our thoughts, and if not - listening to others. It was ha
 
 The book I am writing this page about gives sight from above the problem. It teaches how to find a way to more and more meaningful conversations. 
 
-Even if you think "I am an experienced conversationalist" doesn't mean that you good at listening and know, how to open yourself. In the book there are lots of
+Even if you think "I am an experienced conversationalist" doesn't mean that you good at listening and know how to open yourself. In the book there are lots of
 examples of how people changed their lives after learnt to listen.
 
 So read it if you want to become more humane.
