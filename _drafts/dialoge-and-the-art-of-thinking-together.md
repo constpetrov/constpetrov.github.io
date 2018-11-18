@@ -1,3 +1,10 @@
+---
+date: 2018-11-19
+title: Dialogue and the art of thinking together
+layout: post
+tags: [communication, people, listening]
+---
+
 ## One of the books I value the most
 It is hard to find a side of our lives which isn't touched by interaction with other people. 
 We talk with spouses and family members, at work and with friends, with children and parents. And yet, no one taught us how to talk with people.
