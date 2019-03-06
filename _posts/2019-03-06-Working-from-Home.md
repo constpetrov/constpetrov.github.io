@@ -1,7 +1,7 @@
 ---
-title: Working from Home
+title: Working from Home, Questions
 layout: post
-date:
+date: 2019-03-06
 ---
 
 It is allowed to regularly work from home in our organisation.
@@ -9,7 +9,7 @@ It wasn't the case before.
 
 I am going to try it as soon as possible.
 
-However, there are questions needs to be answered before trying.
+However, there are questions needs to be answered.
 
 ## How do I participate in meetings?
 They are going to buy some microphones for the meeting rooms. It will make remote meetings much simpler. 
