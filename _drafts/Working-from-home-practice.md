@@ -1,12 +1,13 @@
 ## So we were working from home.
-All of us. Me,  Gokcem, Bart. Even Theo, our manager. People from other teams also. 
+Who have tried it so far?
+All of us. Me, my peers. Even our manager! People from other teams also.
 
-Wet have decided on three schedule, sip every time someone is in the office, and this person takes care of all incoming problems. 
+We have decided on the schedule, so every day someone is in the office, and this person takes care of all incoming problems. 
 
 That worked quite well. 
 
-Morale of the team didn't sink, we are all happier, than before. most of the people say that tenet achieve more on the days tenet are working from home. 
+We are all happier, than before. most of the people say that they achieve more on the days they are working from home. 
 
-At the same time there are difficulties. My daughter wants to play, and although she doesn't distract me always, she sometimes does. 
+Of course, there are difficulties. Children want to play, it is hard to stay away when family nearby. Lunch can easily take more than an hour, especially for those who like to talk.
 
-Internet connection isn't ideal. I need to run a wire to the work room. 
+We all have good internet here, our meetings over Hipchat are fine. If only everyone had good microphones!
