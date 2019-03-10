@@ -2,6 +2,7 @@
 title: Working from Home, Questions
 layout: post
 date: 2019-03-06
+tags: [work, home, experiment]
 ---
 
 It is allowed to regularly work from home in our organisation.
