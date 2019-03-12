@@ -6,4 +6,7 @@ Instead, I read a book "Atomic habits" — and enjoyed it.
 I started adding some cues and simplifying my days so I can perform a habits better.
 It already pushed me a lot. For example I have started reading more.
 
-I also have broken some bad habits I had.
+Cooking breakfast stacks well with morning exercises.
+
+Morning exercises break habit of reading internet for no reason.
+
