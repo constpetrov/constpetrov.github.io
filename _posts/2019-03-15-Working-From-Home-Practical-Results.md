@@ -2,6 +2,7 @@
 layout: post
 date: 2019-03-15
 tags: [work, remote]
+title: Working from home part time for a month - results
 ---
 # So we were working from home.
 All of us. Me, my peers. Even our manager! People from other teams also.
