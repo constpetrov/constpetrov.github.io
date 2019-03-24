@@ -15,3 +15,7 @@ I found it hard to switch from one diary system to another, and I don't like clo
 Lately I start believing that text should be stored if form of text files and that I shouldn't mix it with pictures. Technically it gives me nice small scale of project to implement.
 I need a commanding tool and mobile version.
 Perhaps, I can start creating mobile friendly client for jrnl.sh.
+
+# So many times I didn't
+Many times before I have started working on some tool and dropped soon after.
+Well, this time I am determined to finish because I feel a very big need in such toolings.
