@@ -2,7 +2,6 @@
 title: Commuting by bike in the Netherlands
 tags: [bike, commute, Almere, Netherlands]
 layout: post
-date:
 ---
 # How is it in Amsterdam
 the city is full of bike lanes. Cycling here is one of the easiest ways of transportation. All the drivers here know how to treat cyclists.
