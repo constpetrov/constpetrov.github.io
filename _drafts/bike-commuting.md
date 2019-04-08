@@ -22,6 +22,7 @@ Especially, if you want to ride daily.
 Also, with strong winds it is likely that one can benefit from aerodynamic position.
 What I did was building a complete new bicycle with f configuration impossible in LBS models. 
 I have built a dropbar commuter with an internal gear hub. 
+This took a lot of effort. To use IGH one need a special shifter. This is hard to install on dropbar.
 ## Clothes
 For less than 5 kilometers I would say itis ok to ride in casual clothes. 
 During spring and autumn if there is no rain it is also ok. The trouble starts when it rains.
