@@ -28,3 +28,5 @@ For less than 5 kilometers I would say itis ok to ride in casual clothes.
 During spring and autumn if there is no rain it is also ok. The trouble starts when it rains.
 Rain clothes? Poncho? Bike clothes for rain?
 I need to decide on it.
+
+Testing for SSH push.
